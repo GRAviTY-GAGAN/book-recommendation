@@ -1,0 +1,38 @@
+.bookName {
+    font-weight: 600;
+    display: flex;
+    justify-content: start;
+    align-items: flex-start;
+}
+
+.bookDetails {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(245, 209, 161);
+    width: 40vw;
+    padding: 0.5rem;
+    border-radius: 5px;
+    
+}
+
+
+
+.color {
+    color: red;
+    padding-left: 10px;
+}
+
+.cardMainContainer {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.bookRating {
+    font-weight: 500;
+    display: flex;
+    justify-content: start;
+    align-items: flex-start;
+}
